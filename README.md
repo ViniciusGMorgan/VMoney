@@ -4,7 +4,7 @@
 
 ![Resultado final do projeto](assets/preview.png)
 
-<h4 align="center"><a href="https://viniciusgmorgan.github.io/vmoney/">Clique para visitar o projeto</a></h4>
+<h4 align="center"><a href="https://viniciusgmorgan.github.io/VMoney/">Clique para visitar o projeto</a></h4>
 
 ## 📚 Objetivo
 

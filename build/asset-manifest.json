@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.js": "/VMoney/static/js/main.3f34e2a1.chunk.js",
+    "main.js.map": "/VMoney/static/js/main.3f34e2a1.chunk.js.map",
+    "runtime-main.js": "/VMoney/static/js/runtime-main.7b164253.js",
+    "runtime-main.js.map": "/VMoney/static/js/runtime-main.7b164253.js.map",
+    "static/js/2.6e766f70.chunk.js": "/VMoney/static/js/2.6e766f70.chunk.js",
+    "static/js/2.6e766f70.chunk.js.map": "/VMoney/static/js/2.6e766f70.chunk.js.map",
+    "index.html": "/VMoney/index.html",
+    "static/js/2.6e766f70.chunk.js.LICENSE.txt": "/VMoney/static/js/2.6e766f70.chunk.js.LICENSE.txt",
+    "static/media/close.f62862c6.svg": "/VMoney/static/media/close.f62862c6.svg",
+    "static/media/income.d58effe2.svg": "/VMoney/static/media/income.d58effe2.svg",
+    "static/media/logo.978623b3.svg": "/VMoney/static/media/logo.978623b3.svg",
+    "static/media/outcome.6eb96d30.svg": "/VMoney/static/media/outcome.6eb96d30.svg",
+    "static/media/total.e90c2d1e.svg": "/VMoney/static/media/total.e90c2d1e.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7b164253.js",
+    "static/js/2.6e766f70.chunk.js",
+    "static/js/main.3f34e2a1.chunk.js"
+  ]
+}
